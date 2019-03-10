@@ -8,7 +8,6 @@ import Routes   from './routes'
 
 export default props => (
     <div className="wrapper">
-        {/* <h1>App</h1> */}
         <Header />
         <SideBar />
         <div className="content-wrapper">
